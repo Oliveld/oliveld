@@ -7,7 +7,7 @@
 
 ## My Skills
 
-<img src="https://s3.amazonaws.com/crdownload/crcloud/dtcadminlogo/11218/289/1585106235855.png" alt="uipath" width="170" height="40" style="max-width:100%;"></img>
+<img src="https://scontent.fssz1-1.fna.fbcdn.net/v/t1.6435-9/96066519_2322399518061925_1922335848821424128_n.png?_nc_cat=1&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGq-N46aP7s_LctTwZWIlsi_4CZtqO-JS3_gJm2o74lLcT0u9hfWMlK4mDYNeTy6uLUbEAwpr5hQ3FQ4PKxd15e&_nc_ohc=Tbg2oeyaQsIAX-YJltK&_nc_ht=scontent.fssz1-1.fna&oh=56345d0357ba138f957abc8b471552b8&oe=60A17938" alt="uipath" width="50" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
